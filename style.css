@@ -1,3 +1,6 @@
+tr:nth-child(1){
+  background: #DCE90D;
+}
 .parent{
   display: flex;
   flex-direction: row;

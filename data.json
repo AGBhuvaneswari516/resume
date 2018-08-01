@@ -1,5 +1,51 @@
 {
   "career":{
     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
-  }
+  },
+  "education":[
+    {
+      "degree":"B.Tech(Computer Science & Engineering)",
+      "institute":"Siddharth Institute of Engineeing and Technology",
+      "data":["2015-2019","83"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Vedhavyasa Junior College",
+      "data":["2013-2015","94.5"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Jnana Jyothi Vidhya mandhir",
+      "data":["2012-2013","97"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["C","Java","C++","Python"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["HTML","Java Script","CSS","PHP"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["SQL","mySql","Oracle","NoSql"]
+    },
+    {
+      "title":"Operating Systems",
+      "set":["Windows","DOS","Mac","Linux"]
+    }
+  ],
+  "achivements":[
+    {
+      "achievedData":"Got 1st Prize in Code & Debugging."
+    },
+    {
+      "achievedData":"Got 2nd Prize in Technical Quiz."
+    },
+    {
+      "achievedData":"Got 2nd Prize in Running."
+    }
+  ]
 }
